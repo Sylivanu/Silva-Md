@@ -3,7 +3,7 @@
   <img src="https://telegra.ph/file/cb3056720c785550da41d.jpg" width="400" height="300"/>
   <h1>silva- ＭＤ</h1>
 
-<a href="https://github.com/Sylivanu"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Sylivanu"><img title="Creator" src="https://img.shields.io/badge/Creator-SILVA-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA+254700143167
 WhatsApp MD User Bot
