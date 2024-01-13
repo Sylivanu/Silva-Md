@@ -12,15 +12,15 @@ A simple WhatsApp User bot.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
    - [FORK](https://github.com/Sylivanu/Silva-Md/fork) this repository.
-   - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
+   - Now [DEPLOY](https:/).
 
 2. Deploy on Koyeb
    - Create an account on [Koyeb](https://app.koyeb.com/auth/signup). [Sign up now](https://app.koyeb.com/auth/signup).
-   - Get [DATABASE_URL](https://github.com/lyfe00011/whatsapp-bot-md/wiki/DATABASE_URL). You'll need this while deploying.
+   - Get [DATABASE_URL](https://github.com). You'll need this while deploying.
    - Get [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
    - Get the Koyeb API key. [Let's Go](https://app.koyeb.com/account/api).
    - [DEPLOY](https://qr-hazel-alpha.vercel.app/koyeb) now.
-   - Enter [Environment Variables](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables). [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables).
+   - Enter [Environment Variables](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables). [Read More](https://github.com).
    - Enter a name and click "Create Service."
 
 3. Deploy on VPS or PC (Example here as in Ubuntu)
@@ -76,7 +76,7 @@ A simple WhatsApp User bot.
              DISABLE_START_MESSAGE = false
              PERSONAL_MESSAGE = null" > config.env
 
-    - [Read More](https://github.com/lyfe00011/whatsapp-bot-md/wiki/Environment_Variables)
+    - [Read More](https://github.com)
 
     - Edit the `config.env` using nano if needed. To save, press `Ctrl + O`, then press `Enter`, and to exit, press `Ctrl + X`.
 
