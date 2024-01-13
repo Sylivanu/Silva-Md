@@ -1,4 +1,10 @@
 # Silva-Md
+<div align="center" class= "main"> 
+  <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
+  <h1>ＺＵＳＹＣＯ - ＭＤ</h1>
+
+<a href="https://github.com/DarkMakerofc"><img title="Creator" src="https://img.shields.io/badge/Creator-Mrnima-red.svg?style=for-the-badge&logo=github"></a>
+<br>
 WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA+254700143167
 WhatsApp MD User Bot
 A simple WhatsApp User bot.
