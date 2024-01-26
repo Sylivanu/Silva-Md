@@ -4,6 +4,8 @@
   <h1>silva- ＭＤ</h1>
 
 <a href="https://github.com/Sylivanu"><img title="Creator" src="https://img.shields.io/badge/Creator-SILVA-red.svg?style=for-the-badge&logo=github"></a>
+
+<a href="https://github.com/Durable-graphix"><img title="Co Creator" src="https://img.shields.io/badge/CoCreator-Durable-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA+254700143167
 WhatsApp MD User Bot
