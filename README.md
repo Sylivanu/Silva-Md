@@ -3,6 +3,10 @@
   <img src="https://telegra.ph/file/cb3056720c785550da41d.jpg" width="400" height="300"/>
   <h1>silva- ＭＤ</h1>
 
+<p align="center">
+   <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SILVA+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+</p>
+     
 <a href="https://github.com/Sylivanu"><img title="Creator" src="https://img.shields.io/badge/Creator-SILVA-red.svg?style=for-the-badge&logo=github"></a>
 
 <a href="https://github.com/Durable-graphix"><img title="Co Creator" src="https://img.shields.io/badge/CoCreator-Durable-red.svg?style=for-the-badge&logo=github"></a>
