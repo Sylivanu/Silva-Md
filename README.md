@@ -6,7 +6,17 @@
 <p align="center">
    <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SILVA+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
-     
+
+<p align="center">
+  <a aria-label="Follow our channel" href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/DfXcDCINUpP4V15JmRv6Ir](https://wa.me/254700143167?text=.menu)" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+</p>
+
 <a href="https://github.com/Sylivanu"><img title="Creator" src="https://img.shields.io/badge/Creator-SILVA-red.svg?style=for-the-badge&logo=github"></a>
 
 <a href="https://github.com/Durable-graphix"><img title="Co Creator" src="https://img.shields.io/badge/CoCreator-Durable-red.svg?style=for-the-badge&logo=github"></a>
