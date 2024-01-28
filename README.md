@@ -4,7 +4,7 @@
   <h1>silva- ＭＤ</h1>
 
 <p align="center">
-   <a href="https://github.com/TechwithAmee1"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SILVA+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+   <a href="https://github.com/Sylivanu"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SILVA+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
