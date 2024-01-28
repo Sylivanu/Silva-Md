@@ -11,7 +11,7 @@
   <a aria-label="Follow our channel" href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/DfXcDCINUpP4V15JmRv6Ir](https://wa.me/254700143167?text=.menu)" target="_blank">
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/IPxMJSRU2eo0UWIwNvTTLD](https://wa.me/254700143167?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
