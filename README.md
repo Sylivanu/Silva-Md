@@ -11,7 +11,10 @@
 
 <p align="center">
   <a aria-label="Follow our channel" href="https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/Follow Our Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a aria-label="Support Group" href="https://chat.whatsapp.com/Kl4KPuf0s1l9AJji1JqIhR" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/IPxMJSRU2eo0UWIwNvTTLD](https://wa.me/254700143167?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -23,14 +26,14 @@
 
 <a href="https://github.com/Durable-graphix"><img title="Co Creator" src="https://img.shields.io/badge/CoCreator-Durable-red.svg?style=for-the-badge&logo=github"></a>
 <br>
-WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA+254700143167
-WhatsApp MD User Bot
+WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA +254700143167 AND DURABLE +233248716476.
+WhatsApp MD User Bot.
 A simple WhatsApp User bot.
 
 ## Setup
 
 1. Deploy on Heroku
-   - Click [PAIR SILVA MD]() and PAIR the code through the "WhatsApp Linked Devices" option in your WhatsApp app.
+   - Click [PAIR SILVA MD]() and PAIR the code through the _``"WhatsApp Linked Devices"``_ option in your WhatsApp app.
    - You will get a session ID in WhatsApp, copy the ID only.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
@@ -40,7 +43,7 @@ A simple WhatsApp User bot.
    - Get [DATABASE_URL](https://github.com). You'll need this while deploying.
    - Get [SESSION_ID](). Open Linked Devices in WhatsApp and [PAIRING CODE]() now.
    - Get the Koyeb API key. [Let's Go](https://app.koyeb.com/account/api).
-             echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+             echo `"SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
              PREFIX = .
              STICKER_PACKNAME = silva
              ALWAYS_ONLINE = true
@@ -58,7 +61,7 @@ A simple WhatsApp User bot.
              SEND_READ = true
              AJOIN = true
              DISABLE_START_MESSAGE = false
-             PERSONAL_MESSAGE = null" > config.env
+             PERSONAL_MESSAGE = null" > config.env`
 
     - [Read More](https://github.com)
 
