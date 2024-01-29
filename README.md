@@ -1,10 +1,10 @@
 # Silva-Md
 <div align="center" class= "main"> 
   <img src="https://telegra.ph/file/cb3056720c785550da41d.jpg" width="400" height="300"/>
-  <h1>silva- ＭＤ</h1>
+  <h1>Silva-ＭＤ</h1>
 
 <p align="center">
-   <a href="https://github.com/Sylivanu"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SILVA+Multi+Device;Base+Secktor;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
+   <a href="https://github.com/Sylivanu"><img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=SILVA+Multi+Device;Base+Secktor;Give+ a+star+and+fork+this+Repo+:D;Follow+My+Github" alt="UwU">
 </p>
 
 <p align="center">
@@ -23,7 +23,6 @@
 <br>
 WELCOME 😊 TO SILVA MD THE FASTEST BOT MADE BY SILVA+254700143167
 WhatsApp MD User Bot
-A simple WhatsApp User bot.
 A simple WhatsApp User bot.
 
 ## Setup
